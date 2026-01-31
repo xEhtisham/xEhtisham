@@ -1,7 +1,7 @@
 # Hi, I'm Ehtisham 👋
 
 🎓 Software Engineering Undergraduate  
-🤖 Building AI-powered automation systems along with Websites and Apps
+🤖 Building AI-powered automation systems along with Websites and Apps  
 🎮 Also exploring game development & interactive software  
 
 I focus on creating **practical software** that reduces manual work, improves workflows,
