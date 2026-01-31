@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ehtisham 👋
 
-<!--
-**xEhtisham/xEhtisham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Undergraduate  
+🤖 Building AI-powered automation systems along with Websites and Apps
+🎮 Also exploring game development & interactive software  
 
-Here are some ideas to get you started:
+I focus on creating **practical software** that reduces manual work, improves workflows,
+or can be commercialized after development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Automation: APIs, Webhooks, Workflow Automation
+- Tools: Git, GitHub, Node.js, n8n / automation tools
+- Interests: AI-assisted systems, product engineering
+
+## 🚀 Current Work
+- AI automation for repetitive digital workflows
+- Final Year Project with commercialization focus
+- Lightweight AI integration (AI as a tool, not the product)
+
+## 📌 Philosophy
+I use AI **where it adds value**, not where it adds complexity.
+
+## 📫 Contact
+- Email: ehtisham.dev0@email.com
+- LinkedIn: linkedin.com/in/xehtisham/
