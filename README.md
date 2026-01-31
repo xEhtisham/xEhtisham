@@ -22,4 +22,4 @@ I use AI **where it adds value**, not where it adds complexity.
 
 ## 📫 Contact
 - Email: ehtisham.dev0@email.com
-- LinkedIn: linkedin.com/in/xehtisham/
+- LinkedIn: https://linkedin.com/in/xehtisham/
